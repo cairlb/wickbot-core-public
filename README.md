@@ -1,2 +1,2 @@
 # wickbot-core
-ource for my crypto bot
+Source for my crypto bot
